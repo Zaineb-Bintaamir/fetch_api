@@ -1,38 +1,27 @@
 [
-    {
-        name: "Pineapple",
-        newPrice: 250,
-        oldPrice: 320,
-        imageUrl: require('../assets/images/deals/pineapple.jpeg')
-    },
-    {
-        name: "Bananas",
-        newPrice: 210,
-        oldPrice: 280,
-        imageUrl: require('../assets/images/deals/banana.png')
-    },
-    {
-        name: "Brocalli",
-        newPrice: 260,
-        oldPrice: 320,
-        imageUrl: require('../assets/images/deals/brocalli.png')
-    },
-    {
-        name: "Meat",
-        newPrice: 550,
-        oldPrice: 620,
-        imageUrl: require('../assets/images/deals/meat.png')
-    },
-    {
-        name: "Biscuits",
-        newPrice: 80,
-        oldPrice: 120,
-        imageUrl: require('../assets/images/deals/biscuit.png')
-    },
-    {
-        name: "Potatoes",
-        newPrice: 180,
-        oldPrice: 230,
-        imageUrl: require('../assets/images/deals/potato.png')
-    }
+  {
+    "name": "Deal 1",
+    "newPrice": 29.99,
+    "oldPrice": 39.99
+  },
+  {
+    "name": "Deal 2",
+    "newPrice": 14.95,
+    "oldPrice": 19.99
+  },
+  {
+    "name": "Deal 3",
+    "newPrice": 49.99,
+    "oldPrice": 59.99
+  },
+  {
+    "name": "Deal 4",
+    "newPrice": 9.99,
+    "oldPrice": 12.99
+  },
+  {
+    "name": "Deal 5",
+    "newPrice": 79.99,
+    "oldPrice": 99.99
+  }
 ]
