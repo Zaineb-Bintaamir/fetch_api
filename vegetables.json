@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Carrot",
+        "price": 150,
+        "desc": "Experience the crisp and naturally sweet goodness of our farm-fresh carrots. These vibrant orange delights are rich in vitamins and antioxidants, making them a nutritious choice for a healthy lifestyle.",
+        "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.pLpq2YfFFRhwRjdWdGEe6QHaE8&pid=Api&P=0&h=220"
+    },
+    {
+        "name": "Onion",
+        "price": 145,
+        "desc": "Discover the savory and aromatic essence of our premium onions. Sourced for their exceptional quality, these fresh and versatile onions are a kitchen essential. Whether adding depth to soups, enhancing the flavor of sautés, or providing a zesty kick to salads.",
+        "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.EjEADc_jIeSoOLksQcWK3gHaD4&pid=Api&P=0&h=220"
+    },
+    {
+        "name": "Potato",
+        "price": 180,
+        "desc": "Indulge in the hearty and versatile nature of our premium potatoes. Sourced for their exceptional quality and earthy flavor, these potatoes are a culinary staple. Whether roasted to perfection, mashed to creamy goodness, or sliced for crispy fries.",
+        "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.KYuU6CGWRpsZfB0IWfripwHaE7&pid=Api&P=0&h=220"
+    },
+    {
+        "name": "Chillies",
+        "price": 85,
+        "desc": "Spice up your culinary creations with our vibrant and fiery red chillies. Packed with bold flavors and a hint of heat, these premium chillies add a kick to your favorite dishes. Whether finely chopped for a sizzling stir-fry or dried to create your own spice blend.",
+        "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.yCuOtAyhiYEVS-G2-rRq3AHaEu&pid=Api&P=0&h=220"
+    },
+    {
+        "name": "Peas",
+        "price": 105,
+        "desc": "Fresh and vibrant, our premium peas are a delightful addition to your meals. Packed with nutrition and bursting with natural sweetness, these hand-picked peas guarantee a crisp and tender bite. Perfect for adding a pop of green to your salads, sides, or savory dishes.",
+        "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.MaoC3xR0g2t9Be1qW4l7JwHaFj&pid=Api&P=0&h=220"
+    },
+    {
+        "name": "Capsicum",
+        "price": 145,
+        "desc": "Experience the crisp and vibrant taste of our premium capsicums. Bursting with color and flavor, these bell peppers are a versatile addition to your kitchen. Whether diced into salads, grilled to perfection, or sautéed for a savory stir-fry.",
+        "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.dActUedaayhwQ7LOrTEAGgHaE7&pid=Api&P=0&h=220"
+    },
+    {
+        "name": "Spinach",
+        "price": 115,
+        "desc": "Savor the freshness and nutrient-packed goodness of our premium spinach. Delicately harvested for peak flavor and tenderness, our spinach leaves are perfect for salads, smoothies, or cooked dishes. Packed with vitamins and minerals.",
+        "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.vzRbz-n5HIf66ro_NmWsowHaE8&pid=Api&P=0&h=220"
+    },
+    {
+        "name": "Tomato",
+        "price": 105,
+        "desc": "Whether fresh, sun-dried, or processed into sauces, tomatoes add a burst of flavor to a wide range of cuisines. They are a staple ingredient in Mediterranean, Italian, and many other culinary traditions.",
+        "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.4W3-kC-n98msfvrKYQjjsgHaHa&pid=Api&P=0&h=220"
+    },
+    {
+        "name": "Cabbage",
+        "price": 95,
+        "desc": "versatile and widely used vegetable that comes in various varieties, such as green cabbage, red cabbage, and savoy cabbage. It's known for its crisp texture and slightly sweet or peppery flavor.",
+        "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.NTUippdTG_sltQIdb9ii7wHaFc&pid=Api&P=0&h=220"
+    }
+]
