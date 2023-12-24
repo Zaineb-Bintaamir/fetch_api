@@ -3,36 +3,42 @@
         "name": "Pineapple",
         "newPrice": 250,
         "oldPrice": 320,
-        "imageUrl": "https://example.com/path/to/pineapple.jpeg"
+        "imageUrl": "https://i2.wp.com/www.naturalfoodseries.com/wp-content/uploads/2017/09/Pineapples.jpg?fit=1000%2C776&ssl=1"
     },
     {
         "name": "Bananas",
         "newPrice": 210,
         "oldPrice": 280,
-        "imageUrl": "https://example.com/path/to/banana.png"
+        "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.rlbzUaoo47Xg7IlZIwT80QHaE5&pid=Api&P=0&h=220"
     },
     {
         "name": "Broccoli",
         "newPrice": 260,
         "oldPrice": 320,
-        "imageUrl": "https://example.com/path/to/broccoli.png"
+        "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.2I8hMFUQ-gk3U1beXw7rqAHaE7&pid=Api&P=0&h=220"
     },
     {
         "name": "Meat",
         "newPrice": 550,
         "oldPrice": 620,
-        "imageUrl": "https://example.com/path/to/meat.png"
+        "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.8_FwsS43uV0rdA1heZn1-AHaE7&pid=Api&P=0&h=220"
     },
     {
         "name": "Biscuits",
         "newPrice": 80,
         "oldPrice": 120,
-        "imageUrl": "https://example.com/path/to/biscuit.png"
+        "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.FE2e0TJBBQx7ht9Bgb_IbwHaE8&pid=Api&P=0&h=220"
     },
     {
         "name": "Potatoes",
         "newPrice": 180,
         "oldPrice": 230,
-        "imageUrl": "https://example.com/path/to/potato.png"
+        "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.KYuU6CGWRpsZfB0IWfripwHaE7&pid=Api&P=0&h=220"
+    },
+        {
+        "name": "Mango",
+        "newPrice": 250,
+        "oldPrice": 290,
+        "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.ErKZEGPuuU9BCDEtnDyzCQHaE8&pid=Api&P=0&h=220"
     }
 ]
