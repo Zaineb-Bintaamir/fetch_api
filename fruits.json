@@ -2,37 +2,37 @@
     {
         "name": "Pineapple",
         "price": 350,
-	"desc":" a tropical fruit known for its vibrant and spiky exterior, offers a perfect balance of sweetness and tanginess. With its juicy and succulent flesh, promoting immune health and bone strength. "
+        "desc": "A tropical fruit known for its vibrant and spiky exterior, offers a perfect balance of sweetness and tanginess. With its juicy and succulent flesh, promoting immune health and bone strength.",
         "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.8iaNLh9r32ZWDdG6zzuDhgHaFv&pid=Api&P=0&h=220"
     },
     {
         "name": "Melon",
         "price": 280,
-	"desc":"Packed with vitamins A and C, melon not only promotes skin health but also provides a delightful treat during hot summer days. Whether enjoyed in slices, scooped into fruit salads"
+        "desc": "Packed with vitamins A and C, melon not only promotes skin health but also provides a delightful treat during hot summer days. Whether enjoyed in slices, scooped into fruit salads",
         "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.TRJhy846ATDJyjCTP6znEQHaEo&pid=Api&P=0&h=220"
     },
     {
         "name": "Mango",
         "price": 550,
-	"desc":"Bursting with vitamins A and C, mangoes offer a sweet and juicy indulgence that tantalizes the taste buds. Whether savored fresh, blended into smoothies, or featured in both sweet and savory dishes"
+        "desc": "Bursting with vitamins A and C, mangoes offer a sweet and juicy indulgence that tantalizes the taste buds. Whether savored fresh, blended into smoothies, or featured in both sweet and savory dishes",
         "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.IeEpz5AQVfBTBJmm3QPbbgHaHa&pid=Api&P=0&h=220"
     },
     {
         "name": "Apple",
         "price": 300,
-	"desc":"Packed with dietary fiber and essential nutrients, apples contribute to digestive health and overall well-being. Whether enjoyed as a convenient, on-the-go snack, sliced in salads,"
+        "desc": "Packed with dietary fiber and essential nutrients, apples contribute to digestive health and overall well-being. Whether enjoyed as a convenient, on-the-go snack, sliced in salads,",
         "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.Uj3hk8HoJWLj-z575w_jMAHaE3&pid=Api&P=0&h=220"
     },
     {
         "name": "Strawberry",
         "price": 450,
-	"desc":" Whether enjoyed fresh as a standalone treat, blended into smoothies, or featured in desserts and salads, strawberries bring a burst of freshness and a touch of natural sweetness to culinary creations."
+        "desc": "Whether enjoyed fresh as a standalone treat, blended into smoothies, or featured in desserts and salads, strawberries bring a burst of freshness and a touch of natural sweetness to culinary creations.",
         "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.YCA5gDKrzpy2_6FwMwl98gHaE8&pid=Api&P=0&h=220"
     },
     {
         "name": "Banana",
         "price": 250,
-	"desc":" Packed with essential nutrients, bananas contribute to heart health and provide a quick energy boost. Whether enjoyed on its own as a portable snack, sliced onto cereal"
+        "desc": "Packed with essential nutrients, bananas contribute to heart health and provide a quick energy boost. Whether enjoyed on its own as a portable snack, sliced onto cereal",
         "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.rlbzUaoo47Xg7IlZIwT80QHaE5&pid=Api&P=0&h=220"
     }
 ]
