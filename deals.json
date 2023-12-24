@@ -3,42 +3,49 @@
         "name": "Pineapple",
         "newPrice": 250,
         "oldPrice": 320,
-        "imageUrl": "https://i2.wp.com/www.naturalfoodseries.com/wp-content/uploads/2017/09/Pineapples.jpg?fit=1000%2C776&ssl=1"
+        "imageUrl": "https://i2.wp.com/www.naturalfoodseries.com/wp-content/uploads/2017/09/Pineapples.jpg?fit=1000%2C776&ssl=1",
+        "desc": "Juicy and tropical, pineapples offer a perfect balance of sweetness and tartness. With their vibrant flavor, they are a delightful addition to both sweet and savory dishes."
     },
     {
         "name": "Bananas",
         "newPrice": 210,
         "oldPrice": 280,
-        "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.rlbzUaoo47Xg7IlZIwT80QHaE5&pid=Api&P=0&h=220"
+        "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.rlbzUaoo47Xg7IlZIwT80QHaE5&pid=Api&P=0&h=220",
+        "desc": "Bananas, with their creamy texture and natural sweetness, are a nutritious snack and versatile ingredient. They add a delightful taste to breakfast, desserts, and smoothies."
     },
     {
         "name": "Broccoli",
         "newPrice": 260,
         "oldPrice": 320,
-        "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.2I8hMFUQ-gk3U1beXw7rqAHaE7&pid=Api&P=0&h=220"
+        "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.2I8hMFUQ-gk3U1beXw7rqAHaE7&pid=Api&P=0&h=220",
+        "desc": "Broccoli, known for its vibrant green color and health benefits, is a versatile vegetable. Its crisp texture and mild flavor make it a perfect addition to salads, stir-fries, and more."
     },
     {
         "name": "Meat",
         "newPrice": 550,
         "oldPrice": 620,
-        "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.8_FwsS43uV0rdA1heZn1-AHaE7&pid=Api&P=0&h=220"
+        "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.8_FwsS43uV0rdA1heZn1-AHaE7&pid=Api&P=0&h=220",
+        "desc": "High-quality meat, rich in flavor and nutrients, is a centerpiece for hearty and satisfying meals. From succulent steaks to savory roasts, it's a culinary delight for meat lovers."
     },
     {
         "name": "Biscuits",
         "newPrice": 80,
         "oldPrice": 120,
-        "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.FE2e0TJBBQx7ht9Bgb_IbwHaE8&pid=Api&P=0&h=220"
+        "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.FE2e0TJBBQx7ht9Bgb_IbwHaE8&pid=Api&P=0&h=220",
+        "desc": "Delicious and crunchy, biscuits are a timeless treat. Perfect with tea or coffee, they bring comfort and joy with their buttery goodness and versatility for various toppings."
     },
     {
         "name": "Potatoes",
         "newPrice": 180,
         "oldPrice": 230,
-        "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.KYuU6CGWRpsZfB0IWfripwHaE7&pid=Api&P=0&h=220"
+        "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.KYuU6CGWRpsZfB0IWfripwHaE7&pid=Api&P=0&h=220",
+        "desc": "Versatile and satisfying, potatoes are a kitchen staple. Whether mashed, roasted, or fried, they provide comfort and flavor to a variety of dishes, making them a beloved culinary choice."
     },
-        {
+    {
         "name": "Mango",
         "newPrice": 250,
         "oldPrice": 290,
-        "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.ErKZEGPuuU9BCDEtnDyzCQHaE8&pid=Api&P=0&h=220"
+        "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.ErKZEGPuuU9BCDEtnDyzCQHaE8&pid=Api&P=0&h=220",
+        "desc": "Mangoes, the 'king of fruits,' entice with their sweet and succulent flesh. Enjoyed fresh or blended into tropical delights, they bring a taste of paradise to a variety of culinary creations."
     }
 ]
