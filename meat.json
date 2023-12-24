@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Beef",
+        "price": 850,
+        "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.C-UA-sZoQYX_49x61dsHzAHaE8&pid=Api&P=0&h=220",
+        "desc": "Rich in flavor and texture, beef is a hearty red meat that enhances culinary creations, from sizzling steaks to savory stews."
+    },
+    {
+        "name": "Mutton",
+        "price": 1050,
+        "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.QyEgvp61eXjUWgWNcNLRqQHaE7&pid=Api&P=0&h=220",
+        "desc": "Mutton, with its robust taste, adds depth to dishes and is a preferred choice for traditional recipes, bringing warmth and richness to the table."
+    },
+    {
+        "name": "Chicken",
+        "price": 700,
+        "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.1w_OCY4jwmuVZd_J_fBDDAHaHa&pid=Api&P=0&h=220",
+        "desc": "Versatile and lean, chicken is a go-to protein that adapts to various cuisines, offering a healthy and delicious option for a range of culinary delights."
+    },
+    {
+        "name": "Fish",
+        "price": 950,
+        "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.AXal37liV9WpcbKNvveIoAHaE7&pid=Api&P=0&h=220",
+        "desc": "Fish, known for its delicate taste and nutritional benefits, graces the table with light and flavorful options, perfect for a variety of cooking styles."
+    }
+]
