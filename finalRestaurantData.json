@@ -13,9 +13,9 @@
     "collectionTime": 5,
     "foodType": "Coffee",
     "productData": [
-      { "name": "Expresso", "price": 29, "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fespresso&psig=AOvVaw10nx0Y1eqiOcX2k9u2eeFm&ust=1703779046524000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIivnNr9r4MDFQAAAAAdAAAAABAD" },
-      { "name": "Latte", "price": 59, "image": "https://img.freepik.com/free-photo/top-view-hot-espresso-with-brown-coffee-seeds-brown-wooden-desk-coffee-cup-drink_140725-28168.jpg" },
-      { "name": "Iced hazelnut Latte", "price": 150, "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fcoffee-frappe&psig=AOvVaw26MM5KsxzHYILhWMgTUxiT&ust=1703778819427000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCG0fD8r4MDFQAAAAAdAAAAABAD" }
+      { "name": "Expresso", "price": 29, "image": "https://tse4.mm.bing.net/th?id=OIP.cLgUxNF8eljza6H1GqNYlQHaFj&pid=Api&P=0&h=220" },
+      { "name": "Latte", "price": 59, "image": "https://tse2.mm.bing.net/th?id=OIP.OvGFfMI08Gw42YjfpM8LtQHaE8&pid=Api&P=0&h=220" },
+      { "name": "Iced hazelnut Latte", "price": 150, "image": "https://tse3.mm.bing.net/th?id=OIP.ZIQBswwbpcghWkAoik8HegHaD4&pid=Api&P=0&h=220" }
     ],
     "id": 0
   },
@@ -32,9 +32,9 @@
     "collectionTime": 5,
     "foodType": "Coffees, Sweets, Cupcakes,....",
     "productData": [
-      { "name": "Mocha Frappe", "price": 500, "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Finternationalsteviacouncil.org%2Fmocha-soymilk-frappe%2F&psig=AOvVaw3YzjW_Uk22ZfUVb1yXB-8e&ust=1703779137315000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDniob-r4MDFQAAAAAdAAAAABAD" },
-      { "name": "Red Velvet Cupcake", "price": 159, "image": "https://sweetsbyelise.com/wp-content/uploads/2021/05/81BE0F68-93A7-4954-A04C-5ED988E1DE10.jpeg" },
-      { "name": "Americano", "price": 150, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg6CDNbgbnPC9zLOQKyH6rCHflmXNQbCvWHg&usqp=CAU" }
+      { "name": "Mocha Frappe", "price": 500, "image": "https://tse4.mm.bing.net/th?id=OIP.3thd4i6u3PRBaSZjOuE-uQHaFJ&pid=Api&P=0&h=220" },
+      { "name": "Red Velvet Cupcake", "price": 159, "image": "https://tse2.mm.bing.net/th?id=OIP.MJ7otKT85ufoiVn6k7KNBwHaIU&pid=Api&P=0&h=220" },
+      { "name": "Americano", "price": 150, "image": "https://tse1.mm.bing.net/th?id=OIP.Ht6NXgqPSED8EaBzzr5I3wHaE8&pid=Api&P=0&h=220" }
     ],
     "id": 1
   },
@@ -51,9 +51,9 @@
     "collectionTime": 5,
     "foodType": "Coffees, Sweets, Cupcakes, Sandwiches....",
     "productData": [
-      { "name": "Iced Frappe", "price": 500, "image": "https://images.pexels.com/photos/12166771/pexels-photo-12166771.jpeg?cs=srgb&dl=pexels-john-ivan-cocjin-12166771.jpg&fm=jpg" },
-      { "name": "Choclate Cupcake", "price": 159, "image": "https://thenovicechefblog.com/wp-content/uploads/2023/09/Chocolate-Cupcakes-12.jpeg" },
-      { "name": "Chicken Sandwich", "price": 150, "image": "https://img.taste.com.au/OX2Wle32/taste/2016/11/marinated-chicken-club-sandwich-1970-1.jpeg" }
+      { "name": "Iced Frappe", "price": 500, "image": "https://tse1.mm.bing.net/th?id=OIP.QXdFBhorRBWNSRjARohNwQHaHa&pid=Api&P=0&h=220" },
+      { "name": "Choclate Cupcake", "price": 159, "image": "https://tse3.mm.bing.net/th?id=OIP.PdG4nlk2CUNL9PPdN5Ef-wHaLH&pid=Api&P=0&h=220" },
+      { "name": "Chicken Sandwich", "price": 150, "image": "https://tse4.mm.bing.net/th?id=OIP.dEyEvqfGH62TNJfiOrLy2gHaE8&pid=Api&P=0&h=220" }
     ],
     "id": 2
   }
